@@ -86,7 +86,8 @@ footer{
 .submit{
     color: black;
     background: white;
-    width: 6%;
+    width: 20%;
+    max-width: 100px;
     margin: 10px;
     margin-bottom: 30px;
     font-weight: 500;

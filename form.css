@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: grey;
+    background: rgb(60, 75, 79);
 }
 
 #head{
@@ -15,7 +15,7 @@ body{
     max-height: 100px;
 }
 .pick{
-    background: yellow;
+    background: rgb(247, 147, 7);
     width: 100%;
     font-weight: 600;
     max-width: 900px;
@@ -35,7 +35,7 @@ body{
 }
 
 .survey{
-    background: #fff;
+    background: rgb(230, 245, 245);
     width: 90%;
     max-width: 900px;
     margin: 100px auto 0 ;
